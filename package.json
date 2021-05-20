@@ -1,0 +1,16 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Job interview excercise",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "start": "node fizzbuzz.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Facundo Fernández",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
